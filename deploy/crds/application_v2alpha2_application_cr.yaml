@@ -1,0 +1,7 @@
+apiVersion: application.example.com/v2alpha2
+kind: Application
+metadata:
+  name: example-application
+spec:
+  # Add fields here
+  size: 3
